@@ -1,0 +1,39 @@
+2022-04-10 13:50:09,228 [INFO ] [main          ] - User has entered the game.
+2022-04-10 13:50:09,233 [INFO ] [main          ] - Please enter your Name.
+2022-04-10 13:50:15,624 [INFO ] [main          ] - How much games do you want to play?
+2022-04-10 13:50:34,829 [INFO ] [main          ] - User ended the game.
+2022-04-10 14:08:16,860 [INFO ] [main          ] - User has entered the game.
+2022-04-10 14:08:16,864 [INFO ] [main          ] - Please enter your Name.
+2022-04-10 14:08:20,016 [INFO ] [main          ] - How much games do you want to play?
+2022-04-10 14:08:30,379 [INFO ] [main          ] - User is going to play 3 rounds.
+2022-04-10 14:08:32,829 [INFO ] [main          ] - User bet on P
+2022-04-10 14:08:32,830 [INFO ] [main          ] - Computer bet on SS
+2022-04-10 14:08:32,830 [INFO ] [main          ] - Computer win.
+2022-04-10 14:08:32,835 [INFO ] [main          ] - User played 1 rounds. 2rounds left.
+2022-04-10 14:08:40,391 [INFO ] [main          ] - User bet on SS
+2022-04-10 14:08:40,393 [INFO ] [main          ] - Computer bet on SS
+2022-04-10 14:08:40,393 [INFO ] [main          ] - Draw.
+2022-04-10 14:08:40,393 [INFO ] [main          ] - User played 2 rounds. 1rounds left.
+2022-04-10 14:08:44,746 [INFO ] [main          ] - User bet on SS
+2022-04-10 14:08:44,746 [INFO ] [main          ] - Computer bet on  
+2022-04-10 14:08:44,746 [INFO ] [main          ] - Computer win.
+2022-04-10 14:08:44,746 [INFO ] [main          ] - User played 3 rounds. 0rounds left.
+2022-04-10 14:09:16,414 [INFO ] [main          ] - User has ended the game.
+2022-04-10 14:12:45,029 [INFO ] [main          ] - User has entered the game.
+2022-04-10 14:12:45,037 [INFO ] [main          ] - Please enter your Name.
+2022-04-10 14:12:50,200 [INFO ] [main          ] - How much games do you want to play?
+2022-04-10 14:13:04,668 [INFO ] [main          ] - User is going to play 3 rounds.
+2022-04-10 14:13:08,276 [INFO ] [main          ] - User bet on SS
+2022-04-10 14:13:08,277 [INFO ] [main          ] - Computer bet on S
+2022-04-10 14:13:08,277 [INFO ] [main          ] - Computer win.
+2022-04-10 14:13:08,283 [INFO ] [main          ] - User played 1 rounds. 2 rounds left.
+2022-04-10 14:13:12,838 [INFO ] [main          ] - User bet on S
+2022-04-10 14:13:12,838 [INFO ] [main          ] - Computer bet on S
+2022-04-10 14:13:12,838 [INFO ] [main          ] - Draw.
+2022-04-10 14:13:12,838 [INFO ] [main          ] - User played 2 rounds. 1 rounds left.
+2022-04-10 14:13:17,909 [INFO ] [main          ] - User bet on P
+2022-04-10 14:13:17,910 [INFO ] [main          ] - Computer bet on SS
+2022-04-10 14:13:17,910 [INFO ] [main          ] - Computer win.
+2022-04-10 14:13:17,910 [INFO ] [main          ] - User played 3 rounds. 0 rounds left.
+2022-04-10 14:13:37,370 [INFO ] [main          ] - User lose. Computer defeated him.
+2022-04-10 14:13:37,389 [INFO ] [main          ] - User has ended the game.

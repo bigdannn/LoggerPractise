@@ -1,0 +1,5 @@
+ 
+ Player{name='rteter', wins=0, loses=2, draws=1} 
+ Computer{name='Computer', wins=2, loses=0, draws=1} 
+ User lose. Computer defeated him. 
+ 
